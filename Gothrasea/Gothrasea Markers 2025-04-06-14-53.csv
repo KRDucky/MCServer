@@ -1,0 +1,64 @@
+Id,Type,Icon,Name,Note,X,Y,Latitude,Longitude
+marker0,volcanoes,🌋,"Mount Bingham","Erupting volcano. Height: 16077 ft.",1271.66,1190.71,-5.27,7.84
+marker1,hot-springs,♨️,"Hiavheeshi","A geothermal springs with naturally heated water that provide relaxation and medicinal benefits. Average temperature is 68°F.",1291.74,1138.24,-3.61,8.47
+marker2,water-sources,💧,"Stoverebonf Spring of Life","This legendary water source is whispered about in ancient tales and believed to possess mystical properties. The spring emanates crystal-clear water, shimmering with an otherworldly iridescence that sparkles even in the dimmest light.",830.46,1137.2,-3.58,-6.12
+marker3,mines,⛏️,"Watzakt — gold mining town","Watzakt is a mining town of 9051 people just nearby the gold mine.",1222.27,1008.16,0.5,6.27
+marker4,mines,⛏️,"Bumunz — iron mining town","Bumunz is a mining town of 1541 people just nearby the iron mine.",795.9,574.9,14.21,-7.22
+marker5,mines,⛏️,"Nadusharak — silver mining town","Nadusharak is a mining town of 1575 people just nearby the silver mine.",1254.25,1374.26,-11.08,7.29
+marker6,mines,⛏️,"Tradeden — gold mining town","Tradeden is a mining town of 1837 people just nearby the gold mine.",788.22,1396.37,-11.78,-7.46
+marker7,inns,🍻,"The Huge Tavern","A big and famous roadside tavern. Delicious baked corn with cold kumis is served here.",994.09,1147.35,-3.9,-0.95
+marker8,inns,🍻,"The Loud Tavern","A big and famous roadside tavern. Delicious grilled peas with misty rom is served here.",570.01,1078.46,-1.72,-14.36
+marker9,inns,🍻,"The Golden Mule","A big and famous roadside tavern. Delicious deep-fried corn with misty whisky is served here.",991.14,1337.92,-9.93,-1.04
+marker10,inns,🍻,"The Peaceful Swan","A big and famous roadside tavern. Delicious smoked swan with green beer is served here.",1534.05,768.13,8.1,16.14
+marker11,lighthouses,🚨,"Moosebonf Lighthouse","A lighthouse to serve as a beacon for ships in the open sea.",838.24,1510.43,-15.39,-5.88
+marker12,lighthouses,🚨,"Rothelese Lighthouse","A lighthouse to serve as a beacon for ships in the open sea.",746.24,1203.75,-5.69,-8.79
+marker13,lighthouses,🚨,"Bash Lighthouse","A lighthouse to serve as a beacon for ships in the open sea.",584.38,1179.16,-4.91,-13.91
+marker14,lighthouses,🚨,"Selssad Lighthouse","A lighthouse to serve as a beacon for ships in the open sea.",1010.89,446.41,18.28,-0.41
+marker15,lighthouses,🚨,"Altayan Lighthouse","A lighthouse to serve as a beacon for ships in the open sea.",1844.82,1049.53,-0.81,25.97
+marker16,waterfalls,⟱,"Givzieqeean Waterfall","A gorgeous waterfall flows here.",1378.69,978.92,1.43,11.22
+marker17,battlefields,⚔️,"Ashmor Battlefield","A historical battle of the Kutyurt Conflict. 
+Date: December 9, 1616 Brury Era.",1570.94,1237.07,-6.74,17.31
+marker18,battlefields,⚔️,"Ulbligz Battlefield","A historical battle of the Pyrish War. 
+Date: November 8, 1463 Brury Era.",1407.2,984.7,1.24,12.12
+marker19,dungeons,🗝️,"Dungeon","<div>Undiscovered dungeon. See <a href=""https://watabou.github.io/one-page-dungeon/?seed=9336923412765"" target=""_blank"">One page dungeon</a></div><iframe style=""pointer-events: none;"" src=""https://watabou.github.io/one-page-dungeon/?seed=9336923412765"" sandbox=""allow-scripts allow-same-origin""></iframe>",1210.9,1136.89,-3.57,5.91
+marker20,dungeons,🗝️,"Dungeon","<div>Undiscovered dungeon. See <a href=""https://watabou.github.io/one-page-dungeon/?seed=933692341159"" target=""_blank"">One page dungeon</a></div><iframe style=""pointer-events: none;"" src=""https://watabou.github.io/one-page-dungeon/?seed=933692341159"" sandbox=""allow-scripts allow-same-origin""></iframe>",868.04,506.14,16.39,-4.93
+marker21,dungeons,🗝️,"Dungeon","<div>Undiscovered dungeon. See <a href=""https://watabou.github.io/one-page-dungeon/?seed=9336923413365"" target=""_blank"">One page dungeon</a></div><iframe style=""pointer-events: none;"" src=""https://watabou.github.io/one-page-dungeon/?seed=9336923413365"" sandbox=""allow-scripts allow-same-origin""></iframe>",1819.6,1258,-7.4,25.17
+marker22,dungeons,🗝️,"Dungeon","<div>Undiscovered dungeon. See <a href=""https://watabou.github.io/one-page-dungeon/?seed=9336923411382"" target=""_blank"">One page dungeon</a></div><iframe style=""pointer-events: none;"" src=""https://watabou.github.io/one-page-dungeon/?seed=9336923411382"" sandbox=""allow-scripts allow-same-origin""></iframe>",1531.64,832.93,6.05,16.06
+marker23,lake-monsters,🐉,"Nabilbil Monster","Legends say a relic monster of 13 ft long inhabits Nabilbil Lake. Truth or lie, folks are afraid to fish in the lake.",1350,1315.43,-9.22,10.31
+marker24,sea-monsters,🦑,"Wisterby Monster","Old sailors tell stories of a gigantic sea monster inhabiting these dangerous waters. Rumors say it can be 22 ft long.",934.9,687.4,10.65,-2.82
+marker25,sea-monsters,🦑,"Beter Monster","Old sailors tell stories of a gigantic sea monster inhabiting these dangerous waters. Rumors say it can be 22 ft long.",1338.92,1480.88,-14.46,9.96
+marker26,hill-monsters,👹,"Khiz Dragon","Rumors speak of a giant Dragon who inhabits Khiz hills and doesn't mind human flesh.",1232,1345.91,-10.19,6.58
+marker27,sacred-forests,🌳,"Bibinargat Forest","A forest sacred to local Dunirr (Dwarven) Shamanism.",770.28,590.28,13.72,-8.03
+marker28,sacred-palm-groves,🌴,"Clearse Palm Grove","A palm grove sacred to local Anor (Human) Forefathers.",791.69,1211.72,-5.94,-7.35
+marker29,brigands,💰,"Sran Ar Panthers","A gang of forest brigands.",960.9,781.5,7.67,-2
+marker30,brigands,💰,"Smootford Beavers","A gang of forest robbers.",1140.44,1598.71,-18.18,3.68
+marker31,pirates,🏴‍☠️,"Pirates","Pirate ships have been spotted in these waters.",1765.46,892.36,4.17,23.46
+marker32,pirates,🏴‍☠️,"Pirates","Pirate ships have been spotted in these waters.",1840.74,1159.12,-4.28,25.84
+marker33,pirates,🏴‍☠️,"Pirates","Pirate ships have been spotted in these waters.",939.44,641.25,12.11,-2.68
+marker34,pirates,🏴‍☠️,"Pirates","Pirate ships have been spotted in these waters.",449.2,928.9,3.01,-18.19
+marker35,statues,🗿,"Quickbell Runestone","An ancient runestone. It has an inscription, but no one can translate it:
+        <div style=""font-size: 1.8em; line-break: anywhere;"">ⲾⳌ⳩ⳞⳊⳒⳖⳬⳎⳬⳄⳌⳲ⳧⳾ⳫⳤⳆ⳹⳹⳧ⳬ⳥ⲺⳞⳲⲶⳠⲼⳊⳔⳊⳁⳀ ⳞⳒⳂ ⳩ⲼⳬⳄⲾⳔ⳾ⳒⳈⳄ ⳔⳃⳎ</div>",1022.31,1352.02,-10.38,-0.05
+marker36,statues,🗿,"Wilmine Statue","An ancient statue. It has an inscription, but no one can translate it:
+        <div style=""font-size: 1.8em; line-break: anywhere;"">ወቀጸመሠአሠ ነገ ነዐአረፀዐደጠተሐተሠደለከመበተበዐነነፈቀሠጸሀአየዘዘረ ጠመ</div>",1004.94,1583.98,-17.72,-0.6
+marker37,ruins,🏺,"Ruined Sacred site","Ruins of an ancient sacred site. Untold riches may lie within.",1553.15,1138.03,-3.61,16.74
+marker38,ruins,🏺,"Ruined Castle","Ruins of an ancient castle. Untold riches may lie within.",1521.28,1648.28,-19.75,15.73
+marker39,libraries,📚,"Acacith Collection","A vast collection of knowledge, including many rare and ancient tomes.",1321.74,1158.77,-4.26,9.42
+marker40,circuses,🎪,"Travelling Wonderous Circus","Roll up, roll up, this wonderous circus is here for a limited time only.",1880.96,1008.42,0.49,27.11
+marker41,circuses,🎪,"Travelling Wonderous Circus","Roll up, roll up, this wonderous circus is here for a limited time only.",696.2,1049.2,-0.8,-10.37
+marker42,jousts,🤺,"Kokozo Contest","Warriors from around the land gather for a contest of speed in Kokozo, with fame, fortune and favour on offer to the victor.",1356.06,1377.08,-11.17,10.51
+marker43,fairs,🎠,"Ghiz Fair","A fair is being held in Ghiz, with all manner of local and foreign goods and services on offer.",645.02,887.28,4.33,-11.99
+marker44,migration,🐗,"Rooks migration","A huge group of rooks are migrating, whether part of their annual routine, or something more extraordinary.",944.68,496.51,16.69,-2.51
+marker45,mirage,💦,"Illusory mirage","This illusory mirage has been luring travellers out of their way for eons.",801.95,1116.69,-2.93,-7.03
+marker46,caves,🦇,"Knighbreak Fracture","The Knighbreak Fracture. Locals claim that it is a good spot to hid treasure.",957.39,1256.72,-7.36,-2.11
+marker47,portals,🌀,"Qavheesh Portal","An element of the magic portal system connecting major cities. The portals were installed centuries ago, but still work fine.",1336.7,1206,-5.76,9.89
+marker48,portals,🌀,"Swangview Portal","An element of the magic portal system connecting major cities. The portals were installed centuries ago, but still work fine.",862.93,1459.82,-13.79,-5.1
+marker49,portals,🌀,"Hobringai Portal","An element of the magic portal system connecting major cities. The portals were installed centuries ago, but still work fine.",1308.31,876.73,4.66,9
+marker50,portals,🌀,"Silean Portal","An element of the magic portal system connecting major cities. The portals were installed centuries ago, but still work fine.",1067.71,840.95,5.79,1.38
+marker51,rifts,🎆,"Ancient Rift","A rumoured ancient rift in this area is causing all known nearby beings to flee in terror.",1124.94,1164.91,-4.46,3.19
+marker52,disturbed-burials,💀,"Disturbed Burial","A burial site has been disturbed in this area, causing the dead to rise and attack the living.",1086.9,1084.3,-1.91,1.99
+marker53,necropolises,🪦,"Ayli Necropolis","A sprawling necropolis built within a labyrinthine network of catacombs. Its halls are lined with countless alcoves, each housing the remains of the departed, while the distant sound of rattling bones fills the air.",1482.12,1348.68,-10.27,14.5
+marker54,encounters,🧙,"Random encounter","<div>You have encountered a character.</div><iframe src=""https://deorum.vercel.app/encounter/1356"" width=""375"" height=""600"" sandbox=""allow-scripts allow-same-origin allow-popups""></iframe>",1013.8,821.24,6.42,-0.32
+marker55,encounters,🧙,"Random encounter","<div>You have encountered a character.</div><iframe src=""https://deorum.vercel.app/encounter/4655"" width=""375"" height=""600"" sandbox=""allow-scripts allow-same-origin allow-popups""></iframe>",1274.1,1507.8,-15.31,7.91
+marker56,encounters,🧙,"Random encounter","<div>You have encountered a character.</div><iframe src=""https://deorum.vercel.app/encounter/3505"" width=""375"" height=""600"" sandbox=""allow-scripts allow-same-origin allow-popups""></iframe>",809.5,1310.5,-9.07,-6.79
+marker57,encounters,🧙,"Random encounter","<div>You have encountered a character.</div><iframe src=""https://deorum.vercel.app/encounter/3066"" width=""375"" height=""600"" sandbox=""allow-scripts allow-same-origin allow-popups""></iframe>",1469.66,1196.55,-5.46,14.1
+marker58,encounters,🧙,"Random encounter","<div>You have encountered a character.</div><iframe src=""https://deorum.vercel.app/encounter/1383"" width=""375"" height=""600"" sandbox=""allow-scripts allow-same-origin allow-popups""></iframe>",1542.4,842.9,5.73,16.4
